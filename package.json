@@ -1,0 +1,22 @@
+{
+  "name": "cssnatours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavlvs/cssnatours.git"
+  },
+  "author": "pavlvs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavlvs/cssnatours/issues"
+  },
+  "homepage": "https://github.com/pavlvs/cssnatours#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
