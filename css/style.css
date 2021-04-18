@@ -135,3 +135,7 @@ body {
     text-align: center;
     top: 40%;
     transform: translate(-50%, -50%); }
+
+.row {
+  max-width: 114rem;
+  margin: 0 auto; }
